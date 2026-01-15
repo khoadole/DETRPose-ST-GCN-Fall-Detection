@@ -1,0 +1,12 @@
+opencv-python
+transformers
+cloudpickle
+pycocotools
+xtcocotools
+omegaconf
+calflops
+iopath
+scipy
+torch
+torchvision
+numpy==1.23.5
